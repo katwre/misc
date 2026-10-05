@@ -1,8 +1,4 @@
 
-
-### Misc
-
-
 #### Production ML/AI projects
 
 - Machine and deep learning end-to-end projects with APIs (2025):
